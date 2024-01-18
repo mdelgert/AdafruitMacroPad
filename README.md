@@ -1,4 +1,5 @@
 # AdafruitMacroPad
+https://circuitpython.org/board/adafruit_macropad_rp2040/
 
 # Links
 https://learn.adafruit.com/adafruit-macropad-rp2040
